@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<spritesheet version="1" image="test.png" padding="1" spritewidth="64" spriteheight="64" >
+	<excludedcolor hex="#980088" />
+	
+	<sprite name="standing-north" pos="0,0" roffset="21" />
+	<sprite name="standing-northwest" pos="1,0" roffset="21" />
+	<sprite name="standing-west" pos="2,0" roffset="23" />
+</spritesheet>
